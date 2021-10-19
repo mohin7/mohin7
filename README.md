@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **html, css, javascript, ui/ux design, figma, adobe xd, photoshop**
 
-- 📫 How to reach me **csemohin@gmail.com**
+- 📫 How to reach me **mdmohinuddin01623@gmail.com**
 
 <br />
 
