@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohin</h1>
-<h3 align="center">A passionate frontend developer & ui/ux designer</h3>
-
-![GitHub metrics](https://metrics.lecoq.io/mohin7)
+<h3 align="center">A passionate frontend developer & ui/ux designer (UI/UX Engineer)</h3>
 
 - 👨‍💻 All of my projects are available at [https://mohin7.github.io/mohin/](https://mohin7.github.io/mohin/)
 
