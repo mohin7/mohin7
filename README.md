@@ -6,7 +6,7 @@
 - 💬 Ask me about **html, css, javascript, vuejs, nuxtjs, hugo, ui/ux design, figma, adobe xd, photoshop**
 
 - 📫 How to reach me **mdmohinuddin01623@gmail.com** 
-- Skype: [JOIN WITH SKYPE](https://join.skype.com/invite/lMKL4rxrASBu)
+- Skype: [JOIN ME WITH SKYPE](https://join.skype.com/invite/lMKL4rxrASBu)
 
 <br />
 
