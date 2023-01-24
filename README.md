@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohin</h1>
+<h1>Hi 👋, I'm Mohin</h1>
 <h3 align="left">A passionate frontend developer & ui/ux designer (UI/UX Engineer)</h3>
 
 - 👨‍💻 All of my projects are available at [https://mohin7.github.io/mohin/](https://mohin7.github.io/mohin/)
