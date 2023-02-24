@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Mohin</h1>
-<h3 align="left">A passionate frontend developer & ui/ux designer (UI/UX Engineer)</h3>
+<h3 align="left">A passionate Frontend Developer & UI/UX Designer (UI/UX Engineer)</h3>
 
 - 👨‍💻 All of my projects are available at [https://mohin7.github.io/mohin/](https://mohin7.github.io/mohin/)
 
-- 💬 Ask me about **html, css, javascript, vuejs, nuxtjs, hugo, ui/ux design, figma, adobe xd, photoshop**
+- 💬 Ask me about **Javascript, Vuejs, nuxtjs, Hugo, HTML, CSS, UI/UX Design, Figma, Adobe XD, Photoshop**
 
 - 📫 How to reach me **mdmohinuddin01623@gmail.com** 
 - Skype: [JOIN ME WITH SKYPE](https://join.skype.com/invite/lMKL4rxrASBu)
