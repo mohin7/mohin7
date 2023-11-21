@@ -1,7 +1,6 @@
 <h1>Mohin Uddin</h1>
 <h3 align="left">Sr. UI/UX Engineer at AppsCode Inc.</h3>
 
-- 👨‍💻 All of my projects are available at [https://mohin7.github.io/mohin/](https://mohin7.github.io/mohin/)
 
 - 💬 Ask me about **Javascript, Vuejs, nuxtjs, Hugo, HTML, CSS, UI/UX Design, Figma, Adobe XD, Photoshop**
 
