@@ -2,7 +2,7 @@
 <h3 align="left">Sr. UI/UX Engineer at AppsCode Inc.</h3>
 
 
-- 💬 Ask me about **Javascript, Vuejs, nuxtjs, Hugo, HTML, CSS, UI/UX Design, Figma, Adobe XD, Photoshop**
+- 💬 Ask me about **Product Design, UI Development, Javascript, Vuejs, nuxtjs, Hugo, HTML, CSS, UI/UX Design, Figma, Adobe XD, Photoshop**
 
 - 📫 How to reach me **mdmohinuddin01623@gmail.com** 
 - Skype: [JOIN ME WITH SKYPE](https://join.skype.com/invite/lMKL4rxrASBu)
