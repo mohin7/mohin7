@@ -17,8 +17,6 @@
 	<a href="https://twitter.com/mohincse"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Twitter"/></a>
 </p>
 
-<br/>
-
 
 ### 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
