@@ -10,8 +10,8 @@
 
 ### 🌐 Let's Connect 
 <p align="left">
-	<a href="https://github.com/mohin7"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/mohin7/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://github.com/mohin7"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
     <a href="https://www.facebook.com/mohincse/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/mohincse/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/mohincse"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Twitter"/></a>
