@@ -1,8 +1,8 @@
 ## Hi there! I'm Mohin 👋 
-- 💸 I’m currently working @appscode ([AppsCode](https://github.com/appscode))
-- 🔭 Former front-end developer at @CloudSoftwareSolutions
-- 💬 Ask me about UI/UX Design & Development, Bulma CSS, Tailwind CSS, Bootstrap, Javascript, Vuejs, NuxtJS, Design System, Wireframe, Prototype
-- 📫 How to reach me: shoot an email at "hello.mohin4@gmail.com"
+💸 I’m currently working @appscode ([AppsCode](https://github.com/appscode))
+🔭 Former front-end developer at @CloudSoftwareSolutions
+💬 Ask me about UI/UX Design & Development, Bulma CSS, Tailwind CSS, Bootstrap, Javascript, Vuejs, NuxtJS, Design System, Wireframe, Prototype
+📫 How to reach me: shoot an email at "hello.mohin4@gmail.com"
 
 ### 🌐 Let's Connect 
 <p align="left">
