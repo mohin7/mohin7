@@ -8,6 +8,7 @@
 📫 How to reach me: shoot an email at "hello.mohin4@gmail.com"
 <br/>
 
+
 ### 🌐 Let's Connect 
 <p align="left">
 	<a href="https://github.com/mohin7"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
@@ -28,6 +29,7 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) 
 ![Figma](https://img.shields.io/badge/FIGMA-black?style=for-the-badge&logo=figma&logoColor=white) 
+
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mohin7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
