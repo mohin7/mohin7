@@ -1,5 +1,5 @@
 ## Hi there! I'm Mohin 👋 
-💸 I’m currently working @appscode ([AppsCode](https://github.com/appscode)) <br/>
+💸 I’m currently working @appscode ([AppsCode](https://github.com/appscode)) as a UI/UX Engineer<br/>
 <br/>
 🔭 Former front-end developer at @CloudSoftwareSolutions <br/>
 <br/>
