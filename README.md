@@ -1,7 +1,8 @@
 ## Hi there! I'm Mohin 👋 
-💸 I’m currently working @appscode ([AppsCode](https://github.com/appscode)) as a UI/UX Engineer<br/>
+💸 I’m currently working ([@appscode](https://github.com/appscode)) as a UI/UX Engineer<br/>
 <br/>
-🔭 Former front-end developer at @CloudSoftwareSolutions <br/>
+
+🔭 Former front-end developer at ([@CloudSoftwareSolutions](https://cloudsolutionltd.com/)) <br/>
 <br/>
 💬 Ask me about `UI/UX Design & Development`, Bulma CSS, Tailwind CSS, Bootstrap, Javascript, Vuejs, NuxtJS, `Design System`, Wireframe, Prototype <br/>
 <br/>
