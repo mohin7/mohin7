@@ -14,7 +14,6 @@
 	<a href="https://github.com/mohin7"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://dribbble/mohin7"><img src="https://img.icons8.com/bubbles/50/000000/dribbble.png" alt="Dribbble"/></a>
 	<a href="https://behance.com/mohincse"><img src="https://img.icons8.com/bubbles/50/000000/behance.png" alt="behance"/></a>
-	<a href="https://freelancer.com/u/mohincse"><img src="https://icons8.com/icon/107461/working-with-a-laptop" alt="Freelancer"/></a>
 </p>
 
 
