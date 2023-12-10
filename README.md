@@ -3,7 +3,7 @@
 <br/>
 🔭 Former front-end developer at @CloudSoftwareSolutions <br/>
 <br/>
-💬 Ask me about `UI/UX Design & Development`, Bulma CSS, Tailwind CSS, Bootstrap, Javascript, Vuejs, NuxtJS, Design System, Wireframe, Prototype <br/>
+💬 Ask me about `UI/UX Design & Development`, Bulma CSS, Tailwind CSS, Bootstrap, Javascript, Vuejs, NuxtJS, `Design System`, Wireframe, Prototype <br/>
 <br/>
 📫 How to reach me: shoot an email at "hello.mohin4@gmail.com"
 <br/>
