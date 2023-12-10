@@ -1,8 +1,8 @@
 ## Hi there! I'm Mohin 👋 
-💸 I’m currently working ([@appscode](https://github.com/appscode)) as a UI/UX Engineer<br/>
+💸 I’m currently working [@appscode](https://github.com/appscode) as a UI/UX Engineer<br/>
 <br/>
 
-🔭 Former front-end developer at ([@CloudSoftwareSolutions](https://cloudsolutionltd.com/)) <br/>
+🔭 Former front-end developer at [@CloudSoftwareSolutions](https://cloudsolutionltd.com/) <br/>
 <br/>
 💬 Ask me about `UI/UX Design & Development`, Bulma CSS, Tailwind CSS, Bootstrap, Javascript, Vuejs, NuxtJS, `Design System`, Wireframe, Prototype <br/>
 <br/>
@@ -16,6 +16,11 @@
 	<a href="https://www.instagram.com/mohincse/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/mohincse"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Twitter"/></a>
 	<a href="https://github.com/mohin7"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://dribbble/mohin7"><img src="https://img.icons8.com/bubbles/50/000000/dribbble.png" alt="Dribbble"/></a>
+	<a href="https://behance.com/mohincse"><img src="https://img.icons8.com/bubbles/50/000000/behance.png" alt="behance"/></a>
+	<a href="https://freelancer.com/u/mohincse"><img src="https://img.icons8.com/bubbles/50/000000/freelancer.png" alt="behance"/></a>
+
+ https://www.freelancer.com/u/mohincse
 </p>
 
 
