@@ -1,7 +1,10 @@
 ## Hi there! I'm Mohin 👋 
 💸 I’m currently working [@appscode](https://github.com/appscode) as a UI/UX Engineer<br/>
+
 🔭 Former front-end developer at [@CloudSoftwareSolutions](https://cloudsolutionltd.com/) <br/>
+
 💬 Ask me about `UI/UX Design & Development`, Bulma CSS, Tailwind CSS, Bootstrap, Javascript, Vuejs, NuxtJS, `Design System`, Wireframe, Prototype <br/>
+
 📫 How to reach me: shoot an email at "hello.mohin4@gmail.com"
 <br/>
 
