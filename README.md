@@ -1,4 +1,4 @@
-## Hi there! I am Mohin 👋 
+## Hi there! I'm Mohin 👋 
 - 💸 I’m currently working @appscode ([AppsCode](https://github.com/appscode))
 - 🔭 Former front-end developer at @CloudSoftwareSolutions
 - 💬 Ask me about UI/UX Design & Development, Bulma CSS, Tailwind CSS, Bootstrap, Javascript, Vuejs, NuxtJS, Design System, Wireframe, Prototype
@@ -10,7 +10,7 @@
 	<a href="https://www.linkedin.com/in/mohin7/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
     <a href="https://www.facebook.com/mohincse/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/mohincse/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/mohincse"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://twitter.com/mohincse"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Twitter"/></a>
 </p>
 
 ### 💻 Tech Stack:
