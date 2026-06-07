@@ -31,13 +31,6 @@ I design and build interfaces — from wireframes in Figma to production Vue/Nux
 
 ---
 
-### 📊 GitHub Stats
-
-![Mohin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohin7&theme=dark&hide_border=true&show_icons=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohin7&theme=dark&hide_border=true&layout=compact)
-
----
-
 ### 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohin7)
