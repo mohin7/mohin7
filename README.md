@@ -1,40 +1,47 @@
-## Hi there! I'm Mohin 👋 
-💸 I’m currently working [@appscode](https://github.com/appscode) as a Head of Design<br/>
+<h1>Hi, I'm Mohin 👋</h1>
 
-🔭 Former front-end developer at [@CloudSoftwareSolutions](https://cloudsolutionltd.com/) <br/>
+**Head of Design at [@appscode](https://github.com/appscode)** · Design Engineer since April 2019
 
-💬 Ask me about `UI/UX Design & Development`, Bulma CSS, Tailwind CSS, Bootstrap, Javascript, Vuejs, NuxtJS, `Design System`, Wireframe, Prototype <br/>
+I design and build interfaces — from wireframes in Figma to production Vue/Nuxt components. I lead UI design for Appscode's apps and websites, own the company-wide design system, and obsess over the gap between design and code.
 
-📫 How to reach me: shoot an email at "hello.mohin4@gmail.com"
-<br/>
-
-### 🌐 Let's Connect 
-<p align="left">
-	<a href="https://www.linkedin.com/in/mohin7/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-    <a href="https://www.facebook.com/mohincse/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/mohincse/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/mohincse"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Twitter"/></a>
-	<a href="https://github.com/mohin7"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://dribbble/mohin7"><img src="https://img.icons8.com/bubbles/50/000000/dribbble.png" alt="Dribbble"/></a>
-	<a href="https://behance.com/mohincse"><img src="https://img.icons8.com/bubbles/50/000000/behance.png" alt="behance"/></a>
-</p>
-
-
-### 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bulma CSS](https://img.shields.io/badge/bulma-black?style=for-the-badge&logo=bulma&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) 
-![Figma](https://img.shields.io/badge/FIGMA-black?style=for-the-badge&logo=figma&logoColor=white) 
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohin7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohin7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📫 hello.mohin4@gmail.com
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mohin7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠 Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+### 🔖 Featured Work
+
+| Project | Description |
+|---|---|
+| **[Appscode Website Redesign](https://appscode.com)** | Full site redesign + Hugo implementation |
+| **[KubeDB Website & Docs](https://kubedb.com)** | Design, frontend build, mega menu, docs UI |
+| **Appscode Design System** | Company-wide reusable Vue/Nuxt component library |
+
+---
+
+### 📊 GitHub Stats
+
+![Mohin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohin7&theme=dark&hide_border=true&show_icons=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohin7&theme=dark&hide_border=true&layout=compact)
+
+---
+
+### 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohin7)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohin7)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/mohin7)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://behance.com/mohincse)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://mohinuiux.vercel.app)
