@@ -4,7 +4,7 @@
 
 I design and build interfaces — from wireframes in Figma to production Vue/Nuxt components. I lead UI design across Appscode's apps and websites and own the company-wide design system.
 
-📍 Dhaka, Bangladesh · 📫 [hello.mohin4@gmail.com](mailto:hello.mohin4@gmail.com) · 🔗 [Portfolio](https://uxatom.com)
+📍 Dhaka, Bangladesh · 📫 [hello.mohin4@gmail.com](mailto:hello.mohin4@gmail.com) · 🔗 [Portfolio](https://mohin.uxatom.com)
 
 ---
 
