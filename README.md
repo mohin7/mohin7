@@ -91,7 +91,7 @@ Outside AppsCode, I run and maintain **[UXAtom](https://uxatom.com)**, my indepe
 |:--|:--|
 | **Design** | Product Strategy · UX Research · Interaction Design · Design Systems · Figma |
 | **Frontend** | Vue 3 · Nuxt · TypeScript · Pinia · Tailwind CSS · Sass · Hugo |
-| **Platforms** | Rust · Tauri · SwiftUI · Flutter · ESP32 & IoT · Three.js |
+| **Platforms** | ESP32 & IoT · Three.js |
 
 <br/>
 
