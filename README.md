@@ -123,22 +123,7 @@ Design and engineering for a cloud-native Kubernetes product suite.
 
 ## Capabilities
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>Design</h4>
-      Product Strategy<br/>UX Research<br/>Interaction Design<br/>Design Systems<br/>Figma
-    </td>
-    <td width="33%" valign="top">
-      <h4>Frontend</h4>
-      Vue 3 · Nuxt<br/>TypeScript<br/>Pinia<br/>Tailwind CSS · Sass<br/>Hugo
-    </td>
-    <td width="34%" valign="top">
-      <h4>Delivery</h4>
-      Idea to Launch<br/>Cloud Deployment<br/>Maintenance<br/>ESP32 &amp; IoT<br/>Three.js
-    </td>
-  </tr>
-</table>
+<img src="./assets/capabilities.svg" width="100%" alt="Design: Product Strategy, UX Research, Interaction Design, Design Systems, Figma. Frontend: Vue 3, Nuxt, TypeScript, Pinia, Tailwind CSS, Sass, Hugo. Delivery: Idea to Launch, Cloud Deployment, Maintenance, ESP32 and IoT, Three.js." />
 
 <br/>
 

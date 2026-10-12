@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Capabilities: Design, Frontend, Delivery">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#5EEAD4"/>
+    </linearGradient>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .h { font-size: 13px; letter-spacing: 2px; fill: url(#accent); font-weight: 600; }
+      .t { font-size: 19px; fill: #D9D7E4; }
+    </style>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="#0F0E17"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="19.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <g stroke="#FFFFFF" stroke-opacity="0.08"><path d="M400 40V260M800 40V260"/></g>
+
+  <g transform="translate(64 0)">
+    <text y="66" class="mono h">01 · DESIGN</text>
+    <g class="sans t"><text y="112">Product Strategy</text><text y="146">UX Research</text><text y="180">Interaction Design</text><text y="214">Design Systems</text><text y="248">Figma</text></g>
+  </g>
+  <g transform="translate(464 0)">
+    <text y="66" class="mono h">02 · FRONTEND</text>
+    <g class="sans t"><text y="112">Vue 3 · Nuxt</text><text y="146">TypeScript</text><text y="180">Pinia</text><text y="214">Tailwind CSS · Sass</text><text y="248">Hugo</text></g>
+  </g>
+  <g transform="translate(864 0)">
+    <text y="66" class="mono h">03 · DELIVERY</text>
+    <g class="sans t"><text y="112">Idea to Launch</text><text y="146">Cloud Deployment</text><text y="180">Maintenance</text><text y="214">ESP32 &amp; IoT</text><text y="248">Three.js</text></g>
+  </g>
+</svg>
