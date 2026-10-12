@@ -94,30 +94,7 @@ Design and engineering for a cloud-native Kubernetes product suite.
 
 ## Experience
 
-<table>
-  <tr>
-    <td width="24%" valign="top"><b>2025 — Present</b></td>
-    <td width="76%" valign="top"><b>Head of Design &amp; Design Engineer</b> · AppsCode<br/><sub>Leads product design and the company-wide design system; plans features with the CEO and led a team of five frontend engineers.</sub></td>
-  </tr>
-  <tr>
-    <td valign="top">2022 — 2024</td>
-    <td valign="top"><b>Senior UI/UX Engineer</b> · AppsCode<br/><sub>Owned UX and interface development across the Kubernetes product suite.</sub></td>
-  </tr>
-  <tr>
-    <td valign="top">2019 — 2021</td>
-    <td valign="top"><b>Software Engineer, Frontend</b> · AppsCode<br/><sub>Built product interfaces and websites with Vue, Nuxt and Hugo.</sub></td>
-  </tr>
-  <tr>
-    <td valign="top">2018 — 2019</td>
-    <td valign="top"><b>Frontend Developer</b> · Cloud Software Solution<br/><sub>Web pages, apps and WordPress themes for clients.</sub></td>
-  </tr>
-  <tr>
-    <td valign="top">2017 — 2018</td>
-    <td valign="top"><b>UI Designer &amp; Frontend Developer</b> · Freelance<br/><sub>10+ projects for international clients on Upwork and Freelancer.com.</sub></td>
-  </tr>
-</table>
-
-<p><sub>Education &nbsp;·&nbsp; BSc in Computer Science &amp; Engineering, Southeast University, Dhaka</sub></p>
+<img src="./assets/experience.svg" width="100%" alt="2025–Present Head of Design &amp; Design Engineer, AppsCode. 2022–2024 Senior UI/UX Engineer, AppsCode. 2019–2021 Software Engineer, Frontend, AppsCode. 2018–2019 Frontend Developer, Cloud Software Solution. 2017–2018 UI Designer &amp; Frontend Developer, Freelance. Education: BSc in Computer Science &amp; Engineering, Southeast University, Dhaka." />
 
 <br/>
 
