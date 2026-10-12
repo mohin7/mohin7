@@ -26,7 +26,7 @@ Outside AppsCode, I run and maintain **[UXAtom](https://uxatom.com)**, my indepe
 
 ## Products · UXAtom
 
-<sub>Independent products I design, build, launch and maintain.</sub>
+Independent products I design, build, launch and maintain.
 
 <table>
   <tr>
@@ -55,50 +55,99 @@ Outside AppsCode, I run and maintain **[UXAtom](https://uxatom.com)**, my indepe
   </tr>
 </table>
 
-<sub>Also built: <a href="https://apps.uxatom.com">Rapid Pass BD</a> · <a href="https://apps.uxatom.com">PDFlex</a> · <a href="https://apps.uxatom.com">AddsFree</a> · <a href="https://github.com/mohin7/three-js">Three.js Plant Scene</a> · Al-Fatihah Reader</sub>
+<p align="center"><sub>Also built &nbsp;·&nbsp; <a href="https://apps.uxatom.com">Rapid Pass BD</a> · <a href="https://apps.uxatom.com">PDFlex</a> · <a href="https://apps.uxatom.com">AddsFree</a> · <a href="https://github.com/mohin7/three-js">Three.js Plant Scene</a> · Al-Fatihah Reader</sub></p>
 
 <br/>
 
 ## Selected Work · AppsCode
 
-| | |
-|:--|:--|
-| **[AppsCode Design System](https://design.appscode.com)** | The shared component library behind every AppsCode product interface. |
-| **[KubeDB](https://kubedb.com)** | Clear, guided UX for complex Kubernetes database operations, from product UI to website and documentation. |
-| **Product Site Platform** | A single Hugo theme powering several product sites, including KubeDB, KubeVault and Stash. |
-| **[AppsCode.com](https://appscode.com)** | End-to-end redesign and implementation of the company website. |
-| **Platform Interfaces** | Platform UI, AppsCode Console, UI Builder and Vue OpenAPI Form. |
+Design and engineering for a cloud-native Kubernetes product suite.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://design.appscode.com">AppsCode Design System</a></h3>
+      <p>The shared component library behind every AppsCode product interface, from tokens to production Vue components.</p>
+      <sub><code>Figma</code> <code>Vue 3</code> <code>Nuxt</code> <code>TypeScript</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://kubedb.com">KubeDB</a></h3>
+      <p>Clear, guided UX for complex Kubernetes database operations, across the product UI, website and documentation.</p>
+      <sub><code>UX Research</code> <code>Vue</code> <code>Hugo</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://appscode.com">AppsCode.com</a></h3>
+      <p>End-to-end redesign and implementation of the company website, plus a shared Hugo theme that powers the KubeDB, KubeVault and Stash product sites.</p>
+      <sub><code>Web Design</code> <code>Hugo</code> <code>Sass</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Platform Interfaces</h3>
+      <p>Product UI for Platform UI, AppsCode Console, UI Builder and Vue OpenAPI Form, used to manage cloud-native infrastructure.</p>
+      <sub><code>Product Design</code> <code>Vue</code> <code>Pinia</code></sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 ## Experience
 
-| Period | Role | Company |
-|:--|:--|:--|
-| 2025 — Present | **Head of Design & Design Engineer** | AppsCode |
-| 2022 — 2024 | Senior UI/UX Engineer | AppsCode |
-| 2019 — 2021 | Software Engineer, Frontend | AppsCode |
-| 2018 — 2019 | Frontend Developer | Cloud Software Solution |
-| 2017 — 2018 | UI Designer & Frontend Developer | Freelance · Upwork, Freelancer.com |
+<table>
+  <tr>
+    <td width="24%" valign="top"><b>2025 — Present</b></td>
+    <td width="76%" valign="top"><b>Head of Design &amp; Design Engineer</b> · AppsCode<br/><sub>Leads product design and the company-wide design system; plans features with the CEO and led a team of five frontend engineers.</sub></td>
+  </tr>
+  <tr>
+    <td valign="top">2022 — 2024</td>
+    <td valign="top"><b>Senior UI/UX Engineer</b> · AppsCode<br/><sub>Owned UX and interface development across the Kubernetes product suite.</sub></td>
+  </tr>
+  <tr>
+    <td valign="top">2019 — 2021</td>
+    <td valign="top"><b>Software Engineer, Frontend</b> · AppsCode<br/><sub>Built product interfaces and websites with Vue, Nuxt and Hugo.</sub></td>
+  </tr>
+  <tr>
+    <td valign="top">2018 — 2019</td>
+    <td valign="top"><b>Frontend Developer</b> · Cloud Software Solution<br/><sub>Web pages, apps and WordPress themes for clients.</sub></td>
+  </tr>
+  <tr>
+    <td valign="top">2017 — 2018</td>
+    <td valign="top"><b>UI Designer &amp; Frontend Developer</b> · Freelance<br/><sub>10+ projects for international clients on Upwork and Freelancer.com.</sub></td>
+  </tr>
+</table>
 
-<sub>BSc in Computer Science & Engineering · Southeast University, Dhaka</sub>
+<p><sub>Education &nbsp;·&nbsp; BSc in Computer Science &amp; Engineering, Southeast University, Dhaka</sub></p>
 
 <br/>
 
 ## Capabilities
 
-| | |
-|:--|:--|
-| **Design** | Product Strategy · UX Research · Interaction Design · Design Systems · Figma |
-| **Frontend** | Vue 3 · Nuxt · TypeScript · Pinia · Tailwind CSS · Sass · Hugo |
-| **Platforms** | ESP32 & IoT · Three.js |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>Design</h4>
+      Product Strategy<br/>UX Research<br/>Interaction Design<br/>Design Systems<br/>Figma
+    </td>
+    <td width="33%" valign="top">
+      <h4>Frontend</h4>
+      Vue 3 · Nuxt<br/>TypeScript<br/>Pinia<br/>Tailwind CSS · Sass<br/>Hugo
+    </td>
+    <td width="34%" valign="top">
+      <h4>Delivery</h4>
+      Idea to Launch<br/>Cloud Deployment<br/>Maintenance<br/>ESP32 &amp; IoT<br/>Three.js
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <div align="center">
 
-**Open to conversations on product design, design systems and Vue/Nuxt engineering.**
+### Let's build something great
 
-<sub><a href="https://mohin.uxatom.com">mohin.uxatom.com</a> · <a href="https://uxatom.com">uxatom.com</a> · <a href="mailto:hello.mohin4@gmail.com">hello.mohin4@gmail.com</a></sub>
+Open to conversations on product design, design systems and Vue/Nuxt engineering.
+
+<a href="https://mohin.uxatom.com">mohin.uxatom.com</a> &nbsp;·&nbsp; <a href="https://uxatom.com">uxatom.com</a> &nbsp;·&nbsp; <a href="mailto:hello.mohin4@gmail.com">hello.mohin4@gmail.com</a>
 
 </div>
