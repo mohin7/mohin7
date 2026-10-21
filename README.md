@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Mohin Uddin — Head of Design · Design Engineer" />
-
-<br/>
-
 <a href="https://mohin.uxatom.com"><img src="https://img.shields.io/badge/Portfolio-mohin.uxatom.com-0F0E17?style=flat-square&labelColor=0F0E17&color=7C5CFF" alt="Portfolio"/></a>
 <a href="https://uxatom.com"><img src="https://img.shields.io/badge/Products-uxatom.com-0F0E17?style=flat-square&labelColor=0F0E17&color=2DD4BF" alt="UXAtom"/></a>
 <a href="https://linkedin.com/in/mohin7"><img src="https://img.shields.io/badge/LinkedIn-mohin7-0F0E17?style=flat-square&logo=linkedin&logoColor=white&labelColor=0F0E17&color=0A66C2" alt="LinkedIn"/></a>
@@ -19,10 +15,6 @@
 I lead UI/UX design at **[AppsCode](https://appscode.com)**, where I shape the experience of a cloud-native Kubernetes product suite and own the company-wide design system. My work sits where design and engineering meet: I research, design and prototype in Figma, then ship the same ideas as production Vue and Nuxt components.
 
 Outside AppsCode, I run and maintain **[UXAtom](https://uxatom.com)**, my independent product studio. There I take ideas from first sketch to deployed product, across web, desktop, mobile and hardware.
-
-<img src="./assets/stats.svg" width="100%" alt="9+ years in frontend and design engineering · 7+ years at AppsCode · Idea to launch, end to end" />
-
-<br/>
 
 ## Products · UXAtom
 
