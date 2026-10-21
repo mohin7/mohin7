@@ -1,16 +1,5 @@
 <div align="center">
 
-<a href="https://mohin.uxatom.com"><img src="https://img.shields.io/badge/Portfolio-mohin.uxatom.com-0F0E17?style=flat-square&labelColor=0F0E17&color=7C5CFF" alt="Portfolio"/></a>
-<a href="https://uxatom.com"><img src="https://img.shields.io/badge/Products-uxatom.com-0F0E17?style=flat-square&labelColor=0F0E17&color=2DD4BF" alt="UXAtom"/></a>
-<a href="https://linkedin.com/in/mohin7"><img src="https://img.shields.io/badge/LinkedIn-mohin7-0F0E17?style=flat-square&logo=linkedin&logoColor=white&labelColor=0F0E17&color=0A66C2" alt="LinkedIn"/></a>
-<a href="https://dribbble.com/mohin7"><img src="https://img.shields.io/badge/Dribbble-mohin7-0F0E17?style=flat-square&logo=dribbble&logoColor=white&labelColor=0F0E17&color=EA4C89" alt="Dribbble"/></a>
-<a href="mailto:hello.mohin4@gmail.com"><img src="https://img.shields.io/badge/Email-hello.mohin4%40gmail.com-0F0E17?style=flat-square&logo=gmail&logoColor=white&labelColor=0F0E17&color=444" alt="Email"/></a>
-
-</div>
-
-<br/>
-
-## About
 
 I lead UI/UX design at **[AppsCode](https://appscode.com)**, where I shape the experience of a cloud-native Kubernetes product suite and own the company-wide design system. My work sits where design and engineering meet: I research, design and prototype in Figma, then ship the same ideas as production Vue and Nuxt components.
 
@@ -81,18 +70,6 @@ Design and engineering for a cloud-native Kubernetes product suite.
     </td>
   </tr>
 </table>
-
-<br/>
-
-## Experience
-
-<img src="./assets/experience.svg" width="100%" alt="2025–Present Head of Design &amp; Design Engineer, AppsCode. 2022–2024 Senior UI/UX Engineer, AppsCode. 2019–2021 Software Engineer, Frontend, AppsCode. 2018–2019 Frontend Developer, Cloud Software Solution. 2017–2018 UI Designer &amp; Frontend Developer, Freelance. Education: BSc in Computer Science &amp; Engineering, Southeast University, Dhaka." />
-
-<br/>
-
-## Capabilities
-
-<img src="./assets/capabilities.svg" width="100%" alt="Design: Product Strategy, UX Research, Interaction Design, Design Systems, Figma. Frontend: Vue 3, Nuxt, TypeScript, Pinia, Tailwind CSS, Sass, Hugo. Delivery: Idea to Launch, Cloud Deployment, Maintenance, ESP32 and IoT, Three.js." />
 
 <br/>
 
