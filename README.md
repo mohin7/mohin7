@@ -12,7 +12,7 @@ I turn ideas into shipped products — from design and development to deployment
 ### 🚀 Products & Projects
 
 - 🎨 [**UXAtom**](https://uxatom.com) — Digital product design and development
-- 💼 [**JobsPrep**](https://chakri.uxatom.com) — Job preparation and career resources
+- 💼 [**Prepo**](https://chakri.uxatom.com) — Job preparation and career resources
 - ⚡ [**Website Test**](https://speed.uxatom.com) — Website performance testing and troubleshooting guides
 - 🧭 [**OpenLogi**](https://openlogi.uxatom.com) — Linux app for Logitech mice
 - 📚 [**Aula**](https://aula.uxatom.com) — Keyboard customization for macOS
