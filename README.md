@@ -12,8 +12,8 @@ I turn ideas into shipped products — from design and development to deployment
 ### Products & Projects
 
 - [**UXAtom**](https://uxatom.com) — Digital product design and development
-- [**Prepo**](https://chakri.uxatom.com) — Job preparation and career resources
-- [**Website Test**](https://speed.uxatom.com) — Website performance testing and troubleshooting guides
+- [**Prepo**](https://chakri.uxatom.com) — Job preparation and career resources with AI
+- [**Website Test**](https://speed.uxatom.com) — Website performance testing and troubleshooting guides with AI
 - [**OpenLogi**](https://openlogi.uxatom.com) — Linux app for Logitech mice
 - [**Aula**](https://aula.uxatom.com) — Keyboard customization for macOS
 - [**Shikor**](https://shikor.uxatom.com) — IoT-based projects
